@@ -58,7 +58,7 @@ nav h1:hover{
 }
 .hamburger span{
     color: black;
-    font-size: 0.9rem;
+    font-size: 2rem;
 }
 .mobile-menu{
     position:fixed;
