@@ -102,7 +102,7 @@ nav h1:hover{
   color: red
 }
 /*******************************************************(**) MOBILE VIEW */
-@media(max-width:768px){
+@media(max-width:1000px){
   body{
     /* padding: 1% 5%; */
     align-items: center;
